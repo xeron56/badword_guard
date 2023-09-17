@@ -1,7 +1,7 @@
 name: badword_guard
 description: A Flutter plugin for detecting and filtering out offensive language and bad words in text input. Keep your content safe and user-friendly by using badword_guard to scan and sanitize user-generated content in your Flutter applications.
 version: 1.0.0
-homepage:
+homepage: https://github.com/xeron56/badword_guard
 
 environment:
   sdk: '>=3.1.1 <4.0.0'
