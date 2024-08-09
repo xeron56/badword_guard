@@ -820,7 +820,6 @@ chiappa
 chiavare
 chiavata
 ciospo
-ciucciami il cazzo
 coglione
 coglioni
 cornuto
@@ -831,7 +830,6 @@ culo
 di merda
 ditalino
 duro
-fare unaŠ
 fava
 femminuccia
 fica
@@ -1270,7 +1268,6 @@ de ballen
 de hoer spelen
 de hond uitlaten
 de koffer induiken
-del
 de pijp uitgaan
 dombo
 draaikontg
